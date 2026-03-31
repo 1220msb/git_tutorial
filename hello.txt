@@ -1,2 +1,6 @@
 Hello world!
+<<<<<<< HEAD
 My name is Soobin.
+=======
+My student number is 2025-15574.
+>>>>>>> student_id
