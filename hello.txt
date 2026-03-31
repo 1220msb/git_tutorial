@@ -1,6 +1,4 @@
-Hello world!
-<<<<<<< HEAD
+Hello world!D
 My name is Soobin.
-=======
 My student number is 2025-15574.
->>>>>>> student_id
+Goodbye!
