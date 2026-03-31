@@ -1,4 +1,1 @@
-Hello world!D
-My name is Soobin.
-My student number is 2025-15574.
-Goodbye!
+Hello world!
